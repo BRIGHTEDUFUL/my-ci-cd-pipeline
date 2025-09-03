@@ -55,5 +55,5 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-    - name: Deploy to  bright staging
+    - name: Deploy to  bright the boy  staging
       run: echo "Application would be deployed here!"
